@@ -10,18 +10,15 @@
 
 ###
 
+<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
+
+###
+
 <div align="left">
   <a href="https://discord.com/users/429026360485478400" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
-
-###
-
 <h2 align="left">💻Tech Stack:</h2>
 
 ###
