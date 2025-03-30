@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hello World!, I'm Jeremy, an Irish Developer 🇮🇪👋🏼:</h2>
+<h2 align="left">Hello World!, I'm Jeremy, an Irish Developer 🍀👋🏼:</h2>
 
 ###
 
