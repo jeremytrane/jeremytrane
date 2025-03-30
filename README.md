@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
+<p align="left">🛜 currently working on my own home server, python projects & full stack projects<br>👨🏼‍🎓 studying Data Structures & Algorithms/Grinding LeetCode<br>👨🏼‍💻 working as an AI hardware engineer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
 
 ###
 
