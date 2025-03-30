@@ -9,12 +9,18 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/429026360485478400" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech</p>
+
+###
+
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
@@ -34,16 +40,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21ksobmythzc66gkxyc6cvlpi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ksobmythzc66gkxyc6cvlpi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/jeremytrane/jeremytrane/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jeremytrane/jeremytrane/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/21ksobmythzc66gkxyc6cvlpi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ksobmythzc66gkxyc6cvlpi&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
