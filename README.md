@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛜 Currently working on my own home server, python projects & full stack projects<br>👨🏼‍🎓 Studying data structures & algorithms<br>👨🏼‍💻 Working as an AI hardware engineer since 2022 @ intel<br>🎬 just started out with my youtube channel tobi tackles tech</p>
+<p align="left">🛜 Currently working on my own home server, python projects & full stack projects<br>👨🏼‍🎓 Studying data structures & algorithms<br>👨🏼‍💻 Working as an AI hardware engineer since 2022 @ intel<br>🧗 just started out with my rock climbing journey, 7b+</p>
 
 ###
 
